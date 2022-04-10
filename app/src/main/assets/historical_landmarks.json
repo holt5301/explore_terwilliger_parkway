@@ -1,0 +1,28 @@
+{
+  "historical_landmarks": [
+    {
+      "name": "Duniway Park",
+      "brief": "Features a lilac garden and represents the start of the Terwilliger Parkway",
+      "details": "Duniway Park’s open spaces and wooded edges provide a transition between the bustling city and more remote Parkway. This portion of Duniway Park, the section between S.W. Sam Jackson Park Road and S.W. Sheridan Street, consists of a large lawn area with minor recreational amenities, a lilac garden, hillside plantings, a horseshoe pit and other minor improvements.\n\n Within Duniway Park, as part of 2012 Centennial festivities, a Terwilliger Parkway gateway sign was installed near Duniway Park’s starting point.\n\n  The land that makes up Duniway Park was previously Marquam Gulch, used largely as a trash dump before being acquired by the city 1918.",
+      "coordinates": [-122.684193, 45.505161],
+      "image_tag": "duniway_park"
+    },{
+      "name": "Eagle Point",
+      "brief": "Undeveloped viewpoint on relatively recently acquired Terwilliger Parkway land",
+      "details": "Eagle Point was not part of the original Parkway construction and when the Parkway was designed, though the Eagle Point area was widened to 400 feet with a graded loop around the knoll at the point's center. \n\nDuring the construction of the Parkway, the current Eagle Point property was privately owned and included a house, and so the land for the viewpoint was never obtained to become part of the Parkway.  \n\nBeginning in 1922, after completion of the Parkway, efforts to obtain the land to incorporate the intended viewpoint slowly progressed when the owners dedicated a right-of-way around the point. In 1963, part of the right-of-way was given back to the adjacent property owners. The 1983 Terwilliger Parkway Corridor Plan called for re-opening the right-of-way and developing it for public use as a viewpoint, though that opportunity did not occur until 2013 when the one-acre property on top of the knoll came up for sale and was purchased by Portland Parks and Recreation and added to Terwilliger Parkway. \n\nThe site is slowly being restored for native plants and views but there is currently no funding for developing viewpoint features.",      "coordinates": [-122.68046665467607, 45.49397253281288],
+      "image_tag": "eagle_point"
+    },{
+      "name": "Elk Point",
+      "brief": "Official park viewpoint located at the Terwilliger Parkway's highest elevation, 500ft",
+      "details": "Elk Point, directly east of the entrance to S.W. Westwood Drive, was dedicated during an Elks convention held in Portland in 1912. \n\nTwo white plaster elks originally marked the spot where majestic views to the east could be had, though those no longer remain. \n\nLocated at just over 500 feet, the peak elevation along the parkway, Elk Point now shares the land with a restaurant and it's associated parking lot. \n\n To the north of the restaurant’s building is a small stone-paved circular public viewpoint with a narrow view to the east. This site allows the only public vantage from Elk Point. In the center of the viewing area is a large wooden totem pole carved by Chief Lelooska in 1959",
+      "coordinates": [-122.68298631596022, 45.48338515417812],
+      "image_tag": "elk_point"
+    },{
+      "name": "Comfort Station",
+      "brief": "Terwilliger Parkway's only public restroom",
+      "details": "Built circa 1921 in the Rustic style a few years after the opening of the Parkway, the stuccoed Comfort Station has an asphalt shingle hipped roof with dual small restroom vent pipes and features wide overhanging eaves and prominent rafter tails. \n\nThe Comfort Station serves as the Parkway’s only public restroom facilities. The approximately 400-square-foot single story building sits on a newer concrete foundation built into the hillside",
+      "coordinates": [-122.683934, 45.491399],
+      "image_tag": "comfort_station"
+    }
+  ]
+}

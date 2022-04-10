@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">explore_terwilliger_parkway</string>
+    <string name="title_activity_maps">Explore Terwilliger Parkway</string>
+    <string name="sample_details">Sample Details \n some additional stuff</string>
+    <string name="title_text_placeholder">Title Text Placeholder \n some additional stuff</string>
+    <string name="title_activity_tree_details">TreeDetails</string>
+    <string name="title_historical_point">Historical Point Title</string>
+    <string name="brief_historical_point">Historical Point Brief Desc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

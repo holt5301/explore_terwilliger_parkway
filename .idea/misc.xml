@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/explore_terwilliger_parkway/app/src/main/res/layout/test.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/drawable/ic_fot_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/drawable/tree_illustration.xml" value="0.26875" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/activity_intro.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/activity_tree_details.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/content_tree_details.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/fragment_first.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/fragment_map_element_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/fragment_second.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/historical_point_contents.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/historical_point_window.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/tree_info_contents.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/layout/tree_info_window.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/holt5/AndroidStudioProjects/second_test_app/app/src/main/res/mipmap-anydpi-v26/ic_fot.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
