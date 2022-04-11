@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.explore_terwilliger_parkway">
+    package="com.friendsofterwilliger.explore_terwilliger_parkway">
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -30,7 +30,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.example.explore_terwilliger_parkway.MapsActivity"
+            android:name="com.friendsofterwilliger.explore_terwilliger_parkway.MapsActivity"
             android:exported="true"
             android:label="@string/title_activity_maps">
             <intent-filter>

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.explore_terwilliger_parkway
+package com.friendsofterwilliger.explore_terwilliger_parkway
 
 import android.annotation.SuppressLint
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.example.explore_terwilliger_parkway
+package com.friendsofterwilliger.explore_terwilliger_parkway
 import android.content.res.Resources
 import kotlinx.serialization.json.Json
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
+import com.friendsofterwilliger.explore_terwilliger_parkway.R
 import com.google.android.gms.maps.*
 import com.google.android.gms.maps.model.*
 import kotlinx.serialization.json.decodeFromStream
@@ -51,7 +52,11 @@ class MapsActivity :
             Log.d("MapsActivity","Clicked the button")
             if (m_last_selected_marker != null){
                 val sel_obj = m_last_selected_marker?.tag as InterestingLandmark?
-                val details_frag = MapElementDetails.newInstance(sel_obj!!.title(), sel_obj!!.detail_explanation(), sel_obj!!.image_tag())
+                val details_frag = MapElementDetails.newInstance(
+                    sel_obj!!.title(),
+                    sel_obj!!.detail_explanation(),
+                    sel_obj!!.image_tag()
+                )
                 supportFragmentManager.commit {
                     setReorderingAllowed(true)
                     replace(R.id.main_fragment_view, details_frag)

@@ -1,4 +1,4 @@
-package com.example.explore_terwilliger_parkway
+package com.friendsofterwilliger.explore_terwilliger_parkway
 
 import com.google.android.gms.maps.model.LatLng
 import kotlinx.serialization.Serializable

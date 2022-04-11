@@ -22,7 +22,7 @@
         android:tag="map_tag"
         map:layout_constraintBottom_toTopOf="@+id/more_info_button"
         map:layout_constraintTop_toTopOf="parent"
-        tools:context=".MapsActivity" />
+        tools:context="com.friendsofterwilliger.explore_terwilliger_parkway.MapsActivity" />
 
     <Button
         android:id="@+id/more_info_button"

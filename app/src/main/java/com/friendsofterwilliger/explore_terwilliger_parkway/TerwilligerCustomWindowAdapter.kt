@@ -1,9 +1,10 @@
-package com.example.explore_terwilliger_parkway
+package com.friendsofterwilliger.explore_terwilliger_parkway
 
 import android.app.Activity
 import android.content.Context
 import android.view.View
 import android.widget.TextView
+import com.friendsofterwilliger.explore_terwilliger_parkway.R
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.Marker
 

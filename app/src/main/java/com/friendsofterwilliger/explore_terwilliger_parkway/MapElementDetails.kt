@@ -1,4 +1,4 @@
-package com.example.explore_terwilliger_parkway
+package com.friendsofterwilliger.explore_terwilliger_parkway
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import com.friendsofterwilliger.explore_terwilliger_parkway.R
 
 /**
  * A simple [Fragment] subclass.
