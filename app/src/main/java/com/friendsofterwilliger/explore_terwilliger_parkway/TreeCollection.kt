@@ -4,15 +4,18 @@ import com.google.android.gms.maps.model.LatLng
 import kotlinx.serialization.Serializable
 
 val species_map = mapOf(
-    "PSME" to "Maple",
+    "PSME" to "Douglas Fir",
     "QUGA" to "Gambel Oak",
     "QUCO" to "Scarlet Oak",
     "ACMA" to "Bigleaf Maple",
     "SEGI" to "Giant Sequoia",
     "ROPS" to "Black Locust",
-    "PRCE" to "Cherry Plum",
+    "PRCE" to "Sour Cherry",
     "THPL" to "Western Redcedar",
     "JU" to "Juniper",
+    "MEGL" to "Redwood",
+    "PRCH" to "Carob / Algarrobo",
+    "ABGR" to "Grand Fir",
     null to "Unknown"
 ).withDefault { "$it (Default)" }
 
